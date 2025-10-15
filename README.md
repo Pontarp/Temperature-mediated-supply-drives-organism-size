@@ -9,6 +9,7 @@ Temperature-dependent supply and demand drive shrinking body sizes across levels
 
 The project models **monocultures and polycultures** to analyze community dynamics, diversity, and functional responses.
 
+ DOI: https://doi.org/10.5281/zenodo.17358174
 ---
 
 ## Repository Contents
